@@ -1,0 +1,124 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Jüri Ratas",
+        "lang:et": "Jüri Ratas"
+      },
+      "id": "Q2621730",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2621730"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ratasjuri"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Johannes Vares",
+        "lang:et": "Johannes Vares"
+      },
+      "id": "Q709956",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q709956"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Government of the Republic of Estonia",
+        "lang:et": "Eesti valitsus"
+      },
+      "id": "Q2421589",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2421589"
+        }
+      ],
+      "area_id": "Q191"
+    },
+    {
+      "name": {
+        "lang:en": "Communist Party of the Soviet Union",
+        "lang:et": "Nõukogude Liidu Kommunistlik Partei"
+      },
+      "id": "Q79854",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q79854"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Estonian Centre Party",
+        "lang:et": "Eesti Keskerakond"
+      },
+      "id": "Q928652",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928652"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2621730-a9bc18b7-48da-8049-5937-7338d35a9280",
+      "person_id": "Q2621730",
+      "on_behalf_of_id": "Q928652",
+      "organization_id": "Q2421589",
+      "area_id": "Q191",
+      "start_date": "2016-11-23",
+      "role_superclass_code": "Q737115",
+      "role_superclass": {
+        "lang:en": "Prime Minister of Estonia",
+        "lang:et": "Eesti peaminister"
+      },
+      "role_code": "Q737115",
+      "role": {
+        "lang:en": "Prime Minister of Estonia",
+        "lang:et": "Eesti peaminister"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q709956-d0915a92-4426-7b33-c13a-8b4db84de162",
+      "person_id": "Q709956",
+      "on_behalf_of_id": "Q79854",
+      "organization_id": "Q2421589",
+      "area_id": "Q191",
+      "role_superclass_code": "Q737115",
+      "role_superclass": {
+        "lang:en": "Prime Minister of Estonia",
+        "lang:et": "Eesti peaminister"
+      },
+      "role_code": "Q737115",
+      "role": {
+        "lang:en": "Prime Minister of Estonia",
+        "lang:et": "Eesti peaminister"
+      }
+    }
+  ]
+}
