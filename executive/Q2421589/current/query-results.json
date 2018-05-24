@@ -1,0 +1,203 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_en", "name_et", "party", "party_name_en", "party_name_et", "district", "district_name_en", "district_name_et", "role", "role_en", "role_et", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_et", "org", "org_en", "org_et", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928652"
+      },
+      "party_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti Keskerakond"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estonian Centre Party"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2621730"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "district_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estonia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q737115"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q737115"
+      },
+      "role_superclass_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti peaminister"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Estonia"
+      },
+      "role_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti peaminister"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Estonia"
+      },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jüri Ratas"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jüri Ratas"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2421589"
+      },
+      "org_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti valitsus"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Government of the Republic of Estonia"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2621730-a9bc18b7-48da-8049-5937-7338d35a9280"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-11-23T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ratasjuri"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79854"
+      },
+      "party_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Nõukogude Liidu Kommunistlik Partei"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Communist Party of the Soviet Union"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q709956"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "district_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estonia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q737115"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q737115"
+      },
+      "role_superclass_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti peaminister"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Estonia"
+      },
+      "role_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti peaminister"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Estonia"
+      },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Johannes Vares"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Johannes Vares"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2421589"
+      },
+      "org_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti valitsus"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Government of the Republic of Estonia"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q709956-d0915a92-4426-7b33-c13a-8b4db84de162"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      }
+    } ]
+  }
+}
