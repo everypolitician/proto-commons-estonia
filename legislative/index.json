@@ -9,5 +9,16 @@
         "term_item_id": "Q20530392"
       }
     ]
+  },
+  {
+    "comment": "Tallinn city council",
+    "house_item_id": "Q4145632",
+    "position_item_id": "Q53997936",
+    "terms": [
+      {
+        "comment": "9th congress of the Tallinn City Council",
+        "term_item_id": "Q53998275"
+      }
+    ]
   }
 ]
