@@ -26,5 +26,37 @@
             "lang:et": "name_et",
             "lang:en": "name_en"
         }
+    },
+    {
+        "directory": "municipalities",
+        "area_type_wikidata_item_id": "Q612229",
+        "associations": [
+            {
+                "comment": "mayor of Tallinn",
+                "position_item_id": "Q3740505"
+            }
+        ],
+        "name_columns": {
+            "lang:et": "name_et",
+            "lang:en": "name_en"
+        },
+        "filter": {
+            "match": "country:ee/municipality:tallinn",
+            "column": "MS_FB"
+        }
+    },
+    {
+        "directory": "tallinn-electoral-districts",
+        "area_type_wikidata_item_id": "Q53955890",
+        "associations": [
+            {
+                "comment": "member of Tallinn City Council",
+                "position_item_id": "Q53997936"
+            }
+        ],
+        "name_columns": {
+            "lang:et": "name_et",
+            "lang:en": "name_en"
+        }
     }
 ]

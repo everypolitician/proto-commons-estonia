@@ -1,0 +1,123 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Taavi Aas",
+        "lang:et": "Taavi Aas"
+      },
+      "id": "Q16403144",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16403144"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Tallinn City Government",
+        "lang:et": "Tallinna linnavalitsus"
+      },
+      "id": "Q18625841",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18625841"
+        }
+      ],
+      "area_id": "Q4450503"
+    },
+    {
+      "name": {
+        "lang:en": "Estonian Centre Party",
+        "lang:et": "Eesti Keskerakond"
+      },
+      "id": "Q928652",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928652"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q737115"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:et": "maa"
+      },
+      "name": {
+        "lang:et": "Eesti",
+        "lang:en": "Estonia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4450503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4450503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3740505"
+      ],
+      "type": {
+        "lang:en": "municipality of Estonia",
+        "lang:et": "Eesti kohalik omavalitsusüksus"
+      },
+      "name": {
+        "lang:et": "Tallinna linn",
+        "lang:en": "Tallinn City"
+      },
+      "parent_id": "Q191"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16403144-d9a0bc1f-4d06-62ad-801e-07f3fe63a75e",
+      "person_id": "Q16403144",
+      "on_behalf_of_id": "Q928652",
+      "organization_id": "Q18625841",
+      "area_id": "Q4450503",
+      "start_date": "2017-11-09",
+      "role_superclass_code": "Q3740505",
+      "role_superclass": {
+        "lang:en": "mayor of Tallinn",
+        "lang:et": "Tallinna linnapea"
+      },
+      "role_code": "Q3740505",
+      "role": {
+        "lang:en": "mayor of Tallinn",
+        "lang:et": "Tallinna linnapea"
+      }
+    }
+  ]
+}

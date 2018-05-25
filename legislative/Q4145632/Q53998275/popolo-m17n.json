@@ -1,0 +1,667 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Martin Helme",
+        "lang:et": "Martin Helme"
+      },
+      "id": "Q12369924",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12369924"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/martin.helme.9"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tiit Terik",
+        "lang:et": "Tiit Terik"
+      },
+      "id": "Q12376941",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12376941"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/terik.tiit"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Heidy Purga",
+        "lang:et": "Heidy Purga"
+      },
+      "id": "Q16404493",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16404493"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/heidy.purga"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yoko Alender",
+        "lang:et": "Yoko Alender"
+      },
+      "id": "Q17446896",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17446896"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/540386635"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yoko.alender"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Igor Jermakov",
+        "lang:et": "Igor Jermakov"
+      },
+      "id": "Q53998187",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53998187"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Helle-Moonika Helme",
+        "lang:et": "Helle-Moonika Helme"
+      },
+      "id": "Q53998188",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53998188"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Toomas Kruusimägi",
+        "lang:et": "Toomas Kruusimägi"
+      },
+      "id": "Q53998189",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53998189"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/toomas.kruusimagi"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Natalia Malleus",
+        "lang:et": "Natalia Malleus"
+      },
+      "id": "Q53998190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53998190"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/natalia.malleus"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kaupo Nõlvak",
+        "lang:et": "Kaupo Nõlvak"
+      },
+      "id": "Q53998191",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53998191"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/kaupo.nolvak"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rostislav Troškov",
+        "lang:et": "Rostislav Troškov"
+      },
+      "id": "Q53998193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53998193"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Tallinn city council",
+        "lang:et": "Tallinna linnavolikogu"
+      },
+      "id": "Q4145632",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4145632"
+        }
+      ],
+      "area_id": "Q4450503",
+      "seat_counts": {
+        "Q53997936": "79"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Estonian Reform Party",
+        "lang:et": "Eesti Reformierakond"
+      },
+      "id": "Q738947",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q738947"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Conservative People's Party of Estonia",
+        "lang:et": "Eesti Konservatiivne Rahvaerakond"
+      },
+      "id": "Q794028",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q794028"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Estonian Centre Party",
+        "lang:et": "Eesti Keskerakond"
+      },
+      "id": "Q928652",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928652"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q737115"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:et": "maa"
+      },
+      "name": {
+        "lang:et": "Eesti",
+        "lang:en": "Estonia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4450503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4450503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3740505"
+      ],
+      "type": {
+        "lang:en": "municipality of Estonia",
+        "lang:et": "Eesti kohalik omavalitsusüksus"
+      },
+      "name": {
+        "lang:et": "Tallinna linn",
+        "lang:en": "Tallinn City"
+      },
+      "parent_id": "Q191"
+    },
+    {
+      "id": "Q53955927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn/electoral-district:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53955927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53997936"
+      ],
+      "type": {
+        "lang:en": "constituency of Tallinn city council"
+      },
+      "name": {
+        "lang:et": "Valimisringkond nr 7 Pirita linnaosa",
+        "lang:en": "Constituency no. 7 Pirita district"
+      },
+      "parent_id": "Q4450503"
+    },
+    {
+      "id": "Q53955928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn/electoral-district:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53955928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53997936"
+      ],
+      "type": {
+        "lang:en": "constituency of Tallinn city council"
+      },
+      "name": {
+        "lang:et": "Valimisringkond nr 3 Kristiine linnaosa",
+        "lang:en": "Constituency no. 3 Kristiine district"
+      },
+      "parent_id": "Q4450503"
+    },
+    {
+      "id": "Q53955929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn/electoral-district:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53955929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53997936"
+      ],
+      "type": {
+        "lang:en": "constituency of Tallinn city council"
+      },
+      "name": {
+        "lang:et": "Valimisringkond nr 6 Nõmme linnaosa",
+        "lang:en": "Constituency no. 6 Nõmme district"
+      },
+      "parent_id": "Q4450503"
+    },
+    {
+      "id": "Q53955930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn/electoral-district:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53955930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53997936"
+      ],
+      "type": {
+        "lang:en": "constituency of Tallinn city council"
+      },
+      "name": {
+        "lang:et": "Valimisringkond nr 4 Lasnamäe linnaosa",
+        "lang:en": "Constituency no. 4 Lasnamäe district"
+      },
+      "parent_id": "Q4450503"
+    },
+    {
+      "id": "Q53955931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn/electoral-district:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53955931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53997936"
+      ],
+      "type": {
+        "lang:en": "constituency of Tallinn city council"
+      },
+      "name": {
+        "lang:et": "Valimisringkond nr 2 Kesklinna linnaosa",
+        "lang:en": "Constituency no. 2 Kesklinna district"
+      },
+      "parent_id": "Q4450503"
+    },
+    {
+      "id": "Q53955932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn/electoral-district:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53955932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53997936"
+      ],
+      "type": {
+        "lang:en": "constituency of Tallinn city council"
+      },
+      "name": {
+        "lang:et": "Valimisringkond nr 1 Haabersti linnaosa",
+        "lang:en": "Constituency no. 1 Haabersti district"
+      },
+      "parent_id": "Q4450503"
+    },
+    {
+      "id": "Q53955933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn/electoral-district:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53955933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53997936"
+      ],
+      "type": {
+        "lang:en": "constituency of Tallinn city council"
+      },
+      "name": {
+        "lang:et": "Valimisringkond nr 8 Põhja-Tallinna linnaosa",
+        "lang:en": "Constituency no. 8 Põhja-Tallinna district"
+      },
+      "parent_id": "Q4450503"
+    },
+    {
+      "id": "Q53955934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee/municipality:tallinn/electoral-district:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53955934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53997936"
+      ],
+      "type": {
+        "lang:en": "constituency of Tallinn city council"
+      },
+      "name": {
+        "lang:et": "Valimisringkond nr 5 Mustamäe linnaosa",
+        "lang:en": "Constituency no. 5 Mustamäe district"
+      },
+      "parent_id": "Q4450503"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12369924-06F50662-01F8-4A13-ADA6-5AB4914F6967",
+      "person_id": "Q12369924",
+      "on_behalf_of_id": "Q794028",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955934",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12376941-9EBD7916-3BB2-49E9-B9A0-8C0AF643D320",
+      "person_id": "Q12376941",
+      "on_behalf_of_id": "Q928652",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955929",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16404493-10A1ECCE-8A05-445B-842E-9B598DEBAEC0",
+      "person_id": "Q16404493",
+      "on_behalf_of_id": "Q738947",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955932",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17446896-727ED11B-E4DB-430F-B4C3-98580F42EFA6",
+      "person_id": "Q17446896",
+      "on_behalf_of_id": "Q738947",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955933",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53998187-842D43A3-85C3-46AC-A928-BBC869FE150E",
+      "person_id": "Q53998187",
+      "on_behalf_of_id": "Q928652",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955930",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53998188-DBD2F7D2-CB08-4505-9ADB-96D093CD0B90",
+      "person_id": "Q53998188",
+      "on_behalf_of_id": "Q794028",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955931",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53998189-2000841B-B749-4CDC-BE6B-DDBE58ABFEC5",
+      "person_id": "Q53998189",
+      "on_behalf_of_id": "Q738947",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955931",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53998190-2307B903-76FF-4BEB-A8B0-6C940D1CEDFD",
+      "person_id": "Q53998190",
+      "on_behalf_of_id": "Q928652",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955931",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53998191-80FEA90C-3124-489F-BAC1-E1AFEFB11095",
+      "person_id": "Q53998191",
+      "on_behalf_of_id": "Q738947",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955927",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53998193-97D0A2A1-CE5B-4D3D-ACE0-EDD54FB3D782",
+      "person_id": "Q53998193",
+      "on_behalf_of_id": "Q928652",
+      "organization_id": "Q4145632",
+      "area_id": "Q53955930",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:et": "Raehärra"
+      },
+      "role_code": "Q53997936",
+      "role": {
+        "lang:en": "member of Tallinn City Council",
+        "lang:et": "Tallinna Linnavolikogu liige"
+      }
+    }
+  ]
+}
