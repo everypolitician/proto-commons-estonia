@@ -3,5 +3,8 @@
     "en",
     "et"
  ],
-  "country_wikidata_id": "Q191"
+  "country_wikidata_id": "Q191",
+  "additional_admin_area_ids": [
+    "Q4450503"
+  ]
 }
