@@ -6985,6 +6985,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-05-02T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100008765507858"
       }
     }, {
       "party" : {
@@ -17015,6 +17019,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q53638402-e9909595-4e39-82ea-f332-f9d2319be009"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3402163"
+      },
+      "district_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Valimisringkond nr 1"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Electoral District 1 (Haabersti, Põhja-Tallinn and Kristiine)"
       },
       "role_superclass" : {
         "type" : "uri",
