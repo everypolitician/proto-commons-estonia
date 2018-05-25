@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "directory": "country",
+        "area_type_wikidata_item_id": "Q6256",
+        "associations": [
+            {
+                "comment": "Prime Minister of Estonia",
+                "position_item_id": "Q737115"
+            }
+        ],
+        "name_columns": {
+            "lang:et": "name_et",
+            "lang:en": "name_en"
+        }
+    },
+    {
+        "directory": "national-electoral-districts",
+        "area_type_wikidata_item_id": "Q192611",
+        "associations": [
+            {
+                "comment": "member of the Estonian Riigikogu",
+                "position_item_id": "Q33129158"
+            }
+        ],
+        "name_columns": {
+            "lang:et": "name_et",
+            "lang:en": "name_en"
+        }
+    }
+]

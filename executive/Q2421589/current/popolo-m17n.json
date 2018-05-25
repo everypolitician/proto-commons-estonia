@@ -1,0 +1,101 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Jüri Ratas",
+        "lang:et": "Jüri Ratas"
+      },
+      "id": "Q2621730",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2621730"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ratasjuri"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Government of the Republic of Estonia",
+        "lang:et": "Eesti valitsus"
+      },
+      "id": "Q2421589",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2421589"
+        }
+      ],
+      "area_id": "Q191"
+    },
+    {
+      "name": {
+        "lang:en": "Estonian Centre Party",
+        "lang:et": "Eesti Keskerakond"
+      },
+      "id": "Q928652",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928652"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q737115"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:et": "maa"
+      },
+      "name": {
+        "lang:et": "Eesti",
+        "lang:en": "Estonia"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2621730-a9bc18b7-48da-8049-5937-7338d35a9280",
+      "person_id": "Q2621730",
+      "on_behalf_of_id": "Q928652",
+      "organization_id": "Q2421589",
+      "area_id": "Q191",
+      "start_date": "2016-11-23",
+      "role_superclass_code": "Q737115",
+      "role_superclass": {
+        "lang:en": "Prime Minister of Estonia",
+        "lang:et": "Eesti peaminister"
+      },
+      "role_code": "Q737115",
+      "role": {
+        "lang:en": "Prime Minister of Estonia",
+        "lang:et": "Eesti peaminister"
+      }
+    }
+  ]
+}
