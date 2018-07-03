@@ -6,5 +6,9 @@
   "country_wikidata_id": "Q191",
   "additional_admin_area_ids": [
     "Q4450503"
+  ],
+  "hand_maintained_files": [
+    "legislative/index.json",
+    "executive/index.json"
   ]
 }
