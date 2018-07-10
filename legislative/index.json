@@ -2,10 +2,11 @@
   {
     "comment": "Riigikogu",
     "house_item_id": "Q217799",
-    "position_item_id": "Q33129158",
+    "position_item_id": "Q21100241",
     "terms": [
       {
         "comment": "13th Riigikogu",
+        "position_item_id": "Q33129158",
         "term_item_id": "Q20530392"
       }
     ]
