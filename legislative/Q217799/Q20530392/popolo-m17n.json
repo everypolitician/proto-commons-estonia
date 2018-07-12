@@ -2485,6 +2485,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/vilja.toomast"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/vilja.toomast"
         }
       ]
     },
@@ -2834,7 +2838,7 @@
       ],
       "area_id": "Q191",
       "seat_counts": {
-        "Q33129158": "101"
+        "Q21100241": "101"
       }
     },
     {
@@ -2974,7 +2978,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -2999,7 +3003,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3024,7 +3028,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3049,7 +3053,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3074,7 +3078,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3099,7 +3103,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3124,7 +3128,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3149,7 +3153,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3174,7 +3178,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3199,7 +3203,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3224,7 +3228,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3249,7 +3253,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q33129158"
+        "Q21100241"
       ],
       "type": {
         "lang:en": "constituency",
@@ -3271,15 +3275,15 @@
       "area_id": "Q3025278",
       "start_date": "2015-04-09",
       "end_date": "2015-07-15",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3289,15 +3293,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2972997",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3308,15 +3312,15 @@
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3326,15 +3330,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2017-06-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3344,15 +3348,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3032626",
       "start_date": "2017-06-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3363,15 +3367,15 @@
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3381,15 +3385,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2972997",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3399,15 +3403,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3417,15 +3421,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3435,15 +3439,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3453,15 +3457,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3471,15 +3475,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2016-11-24",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3489,15 +3493,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3508,15 +3512,15 @@
       "area_id": "Q3025278",
       "start_date": "2015-04-09",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3526,15 +3530,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2016-11-25",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3545,15 +3549,15 @@
       "area_id": "Q3479058",
       "start_date": "2015-03-30",
       "end_date": "2015-09-14",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3563,15 +3567,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3479058",
       "start_date": "2018-05-03",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3581,15 +3585,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3600,15 +3604,15 @@
       "area_id": "Q2972997",
       "start_date": "2015-09-16",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3619,15 +3623,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
       "end_date": "2015-04-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3638,15 +3642,15 @@
       "area_id": "Q3032626",
       "start_date": "2015-04-09",
       "end_date": "2017-06-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3656,15 +3660,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3674,15 +3678,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3692,15 +3696,15 @@
       "organization_id": "Q217799",
       "start_date": "2017-06-01",
       "end_date": "2017-06-02",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3710,15 +3714,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3338787",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3729,15 +3733,15 @@
       "area_id": "Q3038253",
       "start_date": "2015-04-09",
       "end_date": "2016-11-24",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3747,15 +3751,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2015-04-09",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3765,15 +3769,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3784,15 +3788,15 @@
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
       "end_date": "2016-07-06",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3803,15 +3807,15 @@
       "area_id": "Q3338787",
       "start_date": "2015-04-09",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3821,15 +3825,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-04-09",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3840,15 +3844,15 @@
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
       "end_date": "2016-06-07",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3859,15 +3863,15 @@
       "area_id": "Q2972997",
       "start_date": "2015-09-15",
       "end_date": "2015-09-16",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3877,15 +3881,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-11-21",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3895,15 +3899,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2015-08-18",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3914,15 +3918,15 @@
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
       "end_date": "2015-11-18",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3932,15 +3936,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3950,15 +3954,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3968,15 +3972,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2972997",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -3987,15 +3991,15 @@
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
       "end_date": "2016-12-05",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4006,15 +4010,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
       "end_date": "2018-05-06",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4024,15 +4028,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3485728",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4042,15 +4046,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3338787",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4061,15 +4065,15 @@
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
       "end_date": "2016-12-10",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4079,15 +4083,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2016-11-24",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4097,15 +4101,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3038253",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4115,15 +4119,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4134,15 +4138,15 @@
       "area_id": "Q3479058",
       "start_date": "2015-03-30",
       "end_date": "2015-03-27",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4153,15 +4157,15 @@
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4172,15 +4176,15 @@
       "area_id": "Q3038253",
       "start_date": "2015-03-30",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4191,15 +4195,15 @@
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
       "end_date": "2015-03-27",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4209,15 +4213,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3338787",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4227,15 +4231,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4246,15 +4250,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
       "end_date": "2015-11-20",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4265,15 +4269,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
       "end_date": "2017-06-01",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4284,15 +4288,15 @@
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
       "end_date": "2017-11-07",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4302,15 +4306,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3485728",
       "start_date": "2017-06-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4321,15 +4325,15 @@
       "area_id": "Q3485728",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4340,15 +4344,15 @@
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4358,15 +4362,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4376,15 +4380,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4394,15 +4398,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2972997",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4412,15 +4416,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4430,15 +4434,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3038253",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4448,15 +4452,15 @@
       "organization_id": "Q217799",
       "start_date": "2017-11-08",
       "end_date": "2018-05-02",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4466,15 +4470,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4484,15 +4488,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4503,15 +4507,15 @@
       "area_id": "Q3485728",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4521,15 +4525,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4540,15 +4544,15 @@
       "area_id": "Q2420663",
       "start_date": "2016-12-05",
       "end_date": "2016-12-06",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4558,15 +4562,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2017-06-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4577,15 +4581,15 @@
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4595,15 +4599,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4613,15 +4617,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2017-06-02",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4631,15 +4635,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4650,15 +4654,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-04-09",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4668,15 +4672,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4687,15 +4691,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
       "end_date": "2017-11-10",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4705,15 +4709,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4723,15 +4727,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4741,15 +4745,15 @@
       "organization_id": "Q217799",
       "start_date": "2015-09-15",
       "end_date": "2015-09-16",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4759,15 +4763,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4778,15 +4782,15 @@
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
       "end_date": "2016-09-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4796,15 +4800,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4814,15 +4818,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4832,15 +4836,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4850,15 +4854,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3338787",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4868,15 +4872,15 @@
       "organization_id": "Q217799",
       "start_date": "2016-11-24",
       "end_date": "2016-11-25",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4886,15 +4890,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2016-11-24",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4904,15 +4908,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4922,15 +4926,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2972997",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4941,15 +4945,15 @@
       "area_id": "Q2972997",
       "start_date": "2015-03-30",
       "end_date": "2015-09-14",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4960,15 +4964,15 @@
       "area_id": "Q3485728",
       "start_date": "2015-04-09",
       "end_date": "2017-06-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4978,15 +4982,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -4997,15 +5001,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5015,15 +5019,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5033,15 +5037,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5051,15 +5055,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3479058",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5069,15 +5073,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2016-12-16",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5087,15 +5091,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5106,15 +5110,15 @@
       "area_id": "Q2972997",
       "start_date": "2015-03-30",
       "end_date": "2018-04-04",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5124,15 +5128,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5142,15 +5146,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5161,15 +5165,15 @@
       "area_id": "Q3142965",
       "start_date": "2016-07-07",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5179,15 +5183,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2018-05-07",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5197,15 +5201,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5215,15 +5219,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3479058",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5233,15 +5237,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2972997",
       "start_date": "2015-04-27",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5251,15 +5255,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5270,15 +5274,15 @@
       "area_id": "Q3142965",
       "start_date": "2015-04-09",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5288,15 +5292,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3038253",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5306,15 +5310,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3338787",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5325,15 +5329,15 @@
       "area_id": "Q3479058",
       "start_date": "2015-03-30",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5343,15 +5347,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3479058",
       "start_date": "2016-12-10",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5362,15 +5366,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5381,15 +5385,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-09-15",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5399,15 +5403,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2016-11-24",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5418,15 +5422,15 @@
       "area_id": "Q3032626",
       "start_date": "2016-09-13",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5436,15 +5440,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-11-19",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5455,15 +5459,15 @@
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
       "end_date": "2015-08-31",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5473,15 +5477,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3032626",
       "start_date": "2016-06-16",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5492,15 +5496,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5510,15 +5514,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2016-12-11",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5529,15 +5533,15 @@
       "area_id": "Q3038253",
       "start_date": "2016-11-24",
       "end_date": "2017-06-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5547,15 +5551,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2016-12-06",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5566,15 +5570,15 @@
       "area_id": "Q3352911",
       "start_date": "2016-12-10",
       "end_date": "2016-12-11",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5584,15 +5588,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3485728",
       "start_date": "2016-11-24",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5602,15 +5606,15 @@
       "organization_id": "Q217799",
       "start_date": "2016-11-24",
       "end_date": "2016-12-09",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5620,15 +5624,15 @@
       "organization_id": "Q217799",
       "start_date": "2016-11-23",
       "end_date": "2016-11-24",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5639,15 +5643,15 @@
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
       "end_date": "2016-12-15",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5658,15 +5662,15 @@
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
       "end_date": "2015-08-05",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5676,15 +5680,16 @@
       "organization_id": "Q217799",
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "end_date": "2018-06-15",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5694,15 +5699,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3032626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5713,15 +5718,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-04-09",
       "end_date": "2015-09-14",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5731,15 +5736,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2016-11-24",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5749,15 +5754,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3338787",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5768,15 +5773,15 @@
       "area_id": "Q3338787",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5786,15 +5791,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3479058",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5804,15 +5809,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5823,15 +5828,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5841,15 +5846,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5859,15 +5864,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3479058",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5878,15 +5883,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
       "end_date": "2015-03-27",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5897,15 +5902,15 @@
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5915,15 +5920,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5933,15 +5938,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5951,15 +5956,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2015-07-16",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -5970,15 +5975,32 @@
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q460589-3a26eeca-46cd-d5da-2885-efcb1839eaf1",
+      "person_id": "Q460589",
+      "on_behalf_of_id": "Q738947",
+      "organization_id": "Q217799",
+      "start_date": "2018-06-15",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
       },
-      "role_code": "Q33129158",
+      "role_code": "Q21100241",
       "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
+        "lang:en": "member of the Estonian Riigikogu",
+        "lang:et": "Riigikogu liige"
       }
     },
     {
@@ -5989,15 +6011,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-04-09",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6008,15 +6030,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6027,15 +6049,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6046,15 +6068,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-09-15",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6065,15 +6087,15 @@
       "area_id": "Q3413626",
       "start_date": "2015-09-15",
       "end_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6083,15 +6105,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6101,15 +6123,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2015-09-16",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6120,15 +6142,15 @@
       "area_id": "Q3402163",
       "start_date": "2015-04-09",
       "end_date": "2015-09-14",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6138,15 +6160,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2972997",
       "start_date": "2018-04-05",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6156,15 +6178,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2017-11-10",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6175,15 +6197,15 @@
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
       "end_date": "2015-03-27",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6193,15 +6215,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3338787",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6212,15 +6234,15 @@
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6230,15 +6252,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6249,15 +6271,15 @@
       "area_id": "Q2420663",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6267,15 +6289,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3352911",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6285,15 +6307,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3038253",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6303,15 +6325,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6322,15 +6344,15 @@
       "area_id": "Q2420663",
       "start_date": "2015-09-01",
       "end_date": "2017-06-12",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6340,15 +6362,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3025278",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6358,15 +6380,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3485728",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6376,15 +6398,15 @@
       "organization_id": "Q217799",
       "area_id": "Q2972997",
       "start_date": "2015-03-30",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6395,15 +6417,15 @@
       "area_id": "Q3142965",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     },
     {
@@ -6413,15 +6435,15 @@
       "organization_id": "Q217799",
       "area_id": "Q3142965",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q21100241",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
         "lang:en": "member of the Estonian Riigikogu",
         "lang:et": "Riigikogu liige"
-      },
-      "role_code": "Q33129158",
-      "role": {
-        "lang:en": "Member of the 13th Riigikogu",
-        "lang:et": "XIII Riigikogu liige"
       }
     }
   ]
