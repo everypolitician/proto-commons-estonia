@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16403144-d9a0bc1f-4d06-62ad-801e-07f3fe63a75e"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16403144"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taavi Aas"
+      },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Taavi Aas"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q928652"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Keskerakond"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Estonian Centre Party"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16403144"
+      "party_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti Keskerakond"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinn"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tallinn City"
       },
+      "district_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Tallinn"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3740505"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3740505"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnapea"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "mayor of Tallinn"
@@ -59,47 +64,42 @@
         "type" : "literal",
         "value" : "Tallinna linnapea"
       },
-      "role_en" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-11-09T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44824235"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "mayor of Tallinn"
+        "value" : "city mayor"
       },
-      "name_et" : {
+      "role_superclass_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Taavi Aas"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taavi Aas"
+        "value" : "linnapea"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18625841"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavalitsus"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tallinn City Government"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16403144-d9a0bc1f-4d06-62ad-801e-07f3fe63a75e"
+      "org_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Tallinna linnavalitsus"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-11-09T00:00:00Z"
       }
     } ]
   }
