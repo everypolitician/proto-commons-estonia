@@ -91,7 +91,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/EnnEesmaa"
+        }
       ]
     },
     {
@@ -773,7 +776,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Toomas-Kivim%C3%A4gi-405890466177324"
+          "url": "https://www.facebook.com/Toomas-Kivimägi-405890466177324"
         }
       ]
     },
@@ -2015,7 +2018,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jaak.aaviksoo"
+        }
       ]
     },
     {
@@ -2158,6 +2164,10 @@
         }
       ],
       "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100008238098684"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/100008238098684"
@@ -2512,14 +2522,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/Urve-Palo"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/Urve-Palo"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/Urve-Palo"
         }
       ]
     },
@@ -2567,7 +2569,8 @@
     },
     {
       "name": {
-        "lang:en": "Enn Meri"
+        "lang:en": "Enn Meri",
+        "lang:et": "Enn Meri"
       },
       "id": "Q53636801",
       "identifiers": [
@@ -2582,13 +2585,30 @@
     },
     {
       "name": {
-        "lang:en": "Karin Tammemägi"
+        "lang:en": "Karin Tammemägi",
+        "lang:et": "Karin Tammemägi"
       },
       "id": "Q53638402",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q53638402"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aivar Surva",
+        "lang:et": "Aivar Surva"
+      },
+      "id": "Q55984168",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55984168"
         }
       ],
       "links": [
@@ -2646,7 +2666,14 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/arto.aas"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/arto.aas"
+        }
       ]
     },
     {
@@ -5055,6 +5082,7 @@
       "organization_id": "Q217799",
       "area_id": "Q3479058",
       "start_date": "2015-03-30",
+      "end_date": "2018-08-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -5347,6 +5375,7 @@
       "organization_id": "Q217799",
       "area_id": "Q3479058",
       "start_date": "2016-12-10",
+      "end_date": "2018-06-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -5606,6 +5635,23 @@
       "organization_id": "Q217799",
       "start_date": "2016-11-24",
       "end_date": "2016-12-09",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
+        "lang:en": "member of the Estonian Riigikogu",
+        "lang:et": "Riigikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28854356-ab42d52a-4eb3-ac9a-3fbd-a0358f6e3cb5",
+      "person_id": "Q28854356",
+      "on_behalf_of_id": "Q928652",
+      "organization_id": "Q217799",
+      "start_date": "2018-06-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -6023,6 +6069,25 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q465437-634993ea-4d5b-4e9f-effc-35331cf908a5",
+      "person_id": "Q465437",
+      "on_behalf_of_id": "Q913551",
+      "organization_id": "Q217799",
+      "area_id": "Q3413626",
+      "start_date": "2015-09-15",
+      "end_date": "2016-11-23",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
+        "lang:en": "member of the Estonian Riigikogu",
+        "lang:et": "Riigikogu liige"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q465437-D7F78584-BF95-4018-9FC9-D560D704D64B",
       "person_id": "Q465437",
       "on_behalf_of_id": "Q913551",
@@ -6030,63 +6095,6 @@
       "area_id": "Q3413626",
       "start_date": "2015-03-30",
       "end_date": "2015-04-08",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:et": "Parlamendiliige"
-      },
-      "role_code": "Q21100241",
-      "role": {
-        "lang:en": "member of the Estonian Riigikogu",
-        "lang:et": "Riigikogu liige"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q465437-D7F78584-BF95-4018-9FC9-D560D704D64B",
-      "person_id": "Q465437",
-      "on_behalf_of_id": "Q913551",
-      "organization_id": "Q217799",
-      "area_id": "Q3413626",
-      "start_date": "2015-03-30",
-      "end_date": "2016-11-23",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:et": "Parlamendiliige"
-      },
-      "role_code": "Q21100241",
-      "role": {
-        "lang:en": "member of the Estonian Riigikogu",
-        "lang:et": "Riigikogu liige"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q465437-D7F78584-BF95-4018-9FC9-D560D704D64B",
-      "person_id": "Q465437",
-      "on_behalf_of_id": "Q913551",
-      "organization_id": "Q217799",
-      "area_id": "Q3413626",
-      "start_date": "2015-09-15",
-      "end_date": "2015-04-08",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:et": "Parlamendiliige"
-      },
-      "role_code": "Q21100241",
-      "role": {
-        "lang:en": "member of the Estonian Riigikogu",
-        "lang:et": "Riigikogu liige"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q465437-D7F78584-BF95-4018-9FC9-D560D704D64B",
-      "person_id": "Q465437",
-      "on_behalf_of_id": "Q913551",
-      "organization_id": "Q217799",
-      "area_id": "Q3413626",
-      "start_date": "2015-09-15",
-      "end_date": "2016-11-23",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -6178,6 +6186,23 @@
       "organization_id": "Q217799",
       "area_id": "Q3402163",
       "start_date": "2017-11-10",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:et": "Parlamendiliige"
+      },
+      "role_code": "Q21100241",
+      "role": {
+        "lang:en": "member of the Estonian Riigikogu",
+        "lang:et": "Riigikogu liige"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55984168-b29365f9-4b9f-bcba-4d2d-d4f466849e86",
+      "person_id": "Q55984168",
+      "organization_id": "Q217799",
+      "area_id": "Q3479058",
+      "start_date": "2018-08-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",

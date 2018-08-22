@@ -86,10 +86,10 @@
       "organization_id": "Q2421589",
       "area_id": "Q191",
       "start_date": "2016-11-23",
-      "role_superclass_code": "Q737115",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:en": "Prime Minister of Estonia",
-        "lang:et": "Eesti peaminister"
+        "lang:en": "prime minister",
+        "lang:et": "Peaminister"
       },
       "role_code": "Q737115",
       "role": {
