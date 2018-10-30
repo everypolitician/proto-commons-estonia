@@ -108,10 +108,10 @@
       "organization_id": "Q18625841",
       "area_id": "Q4450503",
       "start_date": "2017-11-09",
-      "role_superclass_code": "Q3740505",
+      "role_superclass_code": "Q44824235",
       "role_superclass": {
-        "lang:en": "mayor of Tallinn",
-        "lang:et": "Tallinna linnapea"
+        "lang:en": "city mayor",
+        "lang:et": "linnapea"
       },
       "role_code": "Q3740505",
       "role": {

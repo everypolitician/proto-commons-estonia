@@ -1,0 +1,40 @@
+[
+  {
+    "role_id": "Q21100241",
+    "role_name": {
+      "lang:en": "member of the Estonian Riigikogu",
+      "lang:et": "Riigikogu liige"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament",
+      "lang:et": "Parlamendiliige"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q217799",
+    "organization_name": {
+      "lang:en": "Riigikogu",
+      "lang:et": "Riigikogu"
+    }
+  },
+  {
+    "role_id": "Q53997936",
+    "role_name": {
+      "lang:en": "member of Tallinn City Council",
+      "lang:et": "Tallinna Linnavolikogu liige"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:et": "Raehärra"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q4145632",
+    "organization_name": {
+      "lang:en": "Tallinn city council",
+      "lang:et": "Tallinna linnavolikogu"
+    }
+  }
+]
