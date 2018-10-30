@@ -1,6 +1,7 @@
 [
   {
     "comment": "Government of the Republic of Estonia",
+    "area_id": "Q191",
     "executive_item_id": "Q2421589",
     "positions": [
       {
@@ -11,6 +12,7 @@
   },
   {
     "comment": "Tallinn City Government",
+    "area_id": "Q4450503",
     "executive_item_id": "Q18625841",
     "positions": [
       {
