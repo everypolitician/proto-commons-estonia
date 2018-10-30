@@ -68,6 +68,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11023034"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Ivi Eenmaa"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -95,11 +100,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Ivi Eenmaa"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -176,6 +176,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11032994"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Urve Tiidus"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -204,11 +209,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urve Tiidus"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -222,12 +222,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -279,6 +279,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11158997"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Sven Sester"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -307,11 +312,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Sven Sester"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -334,12 +334,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -391,6 +391,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11158997"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Sven Sester"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -419,11 +424,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Sven Sester"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -441,12 +441,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -498,6 +498,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11716283"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Margus Tsahkna"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -526,11 +531,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Margus Tsahkna"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -553,12 +553,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -610,6 +610,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11716283"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Margus Tsahkna"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -637,11 +642,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Margus Tsahkna"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -717,6 +717,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11857954"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Enn Eesmaa"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -745,15 +750,14 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Enn Eesmaa"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-03-30T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "EnnEesmaa"
       }
     }, {
       "party" : {
@@ -820,6 +824,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11869429"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kalle Palling"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -847,11 +856,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kalle Palling"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -927,6 +931,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12358062"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Aadu Must"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -954,11 +963,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Aadu Must"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1034,6 +1038,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12358429"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Ain Lutsepp"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1061,11 +1070,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Ain Lutsepp"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1137,6 +1141,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12358481"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Aivar Sõerd"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1164,11 +1173,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Aivar Sõerd"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1244,6 +1248,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12360203"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Barbi Pilvre"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1271,11 +1280,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Barbi Pilvre"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1351,6 +1355,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12363563"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Heimar Lenk"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1378,11 +1387,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Heimar Lenk"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1458,6 +1462,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12364480"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Imre Sooäär"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1485,11 +1494,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Imre Sooäär"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1570,6 +1574,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12364487"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Inara Luigas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1597,11 +1606,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Inara Luigas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1677,6 +1681,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12365130"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jevgeni Ossinovski"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1704,11 +1713,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jevgeni Ossinovski"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1785,6 +1789,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12365130"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jevgeni Ossinovski"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1812,11 +1821,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jevgeni Ossinovski"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1888,6 +1892,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12365796"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jüri Adams"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1915,11 +1924,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jüri Adams"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1995,6 +1999,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12366157"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kalev Kotkas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2022,11 +2031,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kalev Kotkas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2103,6 +2107,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12366158"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kalev Kallo"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2131,11 +2140,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kalev Kallo"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -2154,12 +2158,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -2211,6 +2215,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12366238"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kalle Muuli"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2238,11 +2247,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kalle Muuli"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2323,6 +2327,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12366267"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kalvi Kõva"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2350,11 +2359,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kalvi Kõva"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2426,6 +2430,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12366820"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kersti Sarapuu"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2454,11 +2463,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kersti Sarapuu"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -2476,12 +2480,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -2519,6 +2523,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12368739"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Liisa Pakosta"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2546,11 +2555,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Liisa Pakosta"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2631,6 +2635,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12369791"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Marika Tuus-Laul"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2658,11 +2667,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Marika Tuus-Laul"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2734,6 +2738,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12369838"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mark Soosaar"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2762,11 +2771,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mark Soosaar"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -2785,12 +2789,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -2842,6 +2846,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12369884"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mart Nutt"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2869,11 +2878,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mart Nutt"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2949,6 +2953,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12369924"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Martin Helme"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2976,11 +2985,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Martin Helme"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3056,6 +3060,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12369932"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Martin Kukk"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3083,11 +3092,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Martin Kukk"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3164,6 +3168,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12369996"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mati Raidma"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3192,11 +3201,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mati Raidma"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -3206,6 +3210,99 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-11-23T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "matiraidma"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q738947"
+      },
+      "party_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti Reformierakond"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estonian Reform Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q12369996-8436b91d-4bee-b833-f07f-4566b07dfd6e"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Parlamendiliige"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21100241"
+      },
+      "role_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Riigikogu liige"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Estonian Riigikogu"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12369996"
+      },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mati Raidma"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mati Raidma"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q217799"
+      },
+      "org_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Riigikogu"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riigikogu"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "101"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-09-05T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -3276,6 +3373,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12370075"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Meelis Mälberg"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3303,11 +3405,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Meelis Mälberg"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3383,6 +3480,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12370316"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mihkel Raud"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3410,11 +3512,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mihkel Raud"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3491,6 +3588,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12370928"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Neeme Suur"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3518,11 +3620,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Neeme Suur"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3599,6 +3696,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12371725"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Oudekki Loone"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3626,11 +3728,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Oudekki Loone"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3706,6 +3803,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12372175"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Peeter Ernits"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3733,11 +3835,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Peeter Ernits"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3813,6 +3910,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12372781"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Priit Toobal"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3841,11 +3943,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Priit Toobal"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -3864,12 +3961,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -3921,6 +4018,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12372782"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Priit Sibul"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3948,11 +4050,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Priit Sibul"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4028,6 +4125,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12373456"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Rainer Vakra"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4056,11 +4158,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Rainer Vakra"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -4078,12 +4175,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -4135,6 +4232,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12373459"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Raivo Aeg"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4162,11 +4264,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raivo Aeg"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4242,6 +4339,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12373774"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Rein Ratas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4269,11 +4371,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Rein Ratas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4350,6 +4447,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12373839"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Remo Holsmer"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4377,11 +4479,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Remo Holsmer"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4462,6 +4559,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12375092"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Siret Kotka-Repinski"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4489,11 +4591,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Siret Kotka-Repinski"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4569,6 +4666,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12376325"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Tanel Talve"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4596,11 +4698,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tanel Talve"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4676,6 +4773,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12376376"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Tarmo Tamm"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4703,11 +4805,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tarmo Tamm"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4784,6 +4881,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12376941"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Tiit Terik"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4811,11 +4913,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tiit Terik"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4891,6 +4988,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12377090"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toomas Kivimägi"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4919,11 +5021,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toomas Kivimägi"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -4931,7 +5028,7 @@
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "Toomas-Kivim%C3%A4gi-405890466177324"
+        "value" : "Toomas-Kivimägi-405890466177324"
       }
     }, {
       "party" : {
@@ -4998,6 +5095,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12378637"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Viktor Vassiljev"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5025,11 +5127,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Viktor Vassiljev"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5105,6 +5202,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12379326"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Yana Toom"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5133,11 +5235,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Yana Toom"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -5147,6 +5244,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-03-27T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yana.toom"
       }
     }, {
       "party" : {
@@ -5213,6 +5314,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q13234758"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Andres Anvelt"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5240,11 +5346,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Andres Anvelt"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5325,6 +5426,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q13570003"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kadri Simson"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5352,11 +5458,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kadri Simson"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5437,6 +5538,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q13607430"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Urmas Klaas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5465,11 +5571,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urmas Klaas"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -5488,12 +5589,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -5545,6 +5646,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q13608089"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Aivar Kokk"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5572,11 +5678,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Aivar Kokk"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5652,6 +5753,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q13628736"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Helmen Kütt"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5679,11 +5785,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Helmen Kütt"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5759,6 +5860,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q13629005"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Lauri Laasi"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5787,11 +5893,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Lauri Laasi"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -5810,12 +5911,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -5867,6 +5968,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1385792"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Ken-Marti Vaher"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5894,11 +6000,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Ken-Marti Vaher"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5979,6 +6080,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1398025"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Ivari Padar"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6007,11 +6113,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Ivari Padar"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -6034,12 +6135,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -6091,6 +6192,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1399189"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Marko Pomerants"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6119,11 +6225,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Marko Pomerants"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -6146,12 +6247,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -6203,6 +6304,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1399189"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Marko Pomerants"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6230,11 +6336,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Marko Pomerants"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6310,6 +6411,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1399218"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Hanno Pevkur"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6337,11 +6443,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Hanno Pevkur"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6422,6 +6523,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1399218"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Hanno Pevkur"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6449,11 +6555,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Hanno Pevkur"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6529,6 +6630,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1410118"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jaanus Marrandi"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6556,11 +6662,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jaanus Marrandi"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6636,6 +6737,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14191221"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Lauri Luik"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6663,11 +6769,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Lauri Luik"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6743,6 +6844,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14483307"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Heljo Pikhof"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6770,11 +6876,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Heljo Pikhof"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6850,6 +6951,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1453245"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mart Helme"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6877,11 +6983,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mart Helme"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6943,6 +7044,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14542629"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Rein Randver"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6970,11 +7076,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Rein Randver"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7055,6 +7156,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15983657"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Anne Sulling"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7082,11 +7188,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Anne Sulling"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7162,6 +7263,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16402978"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Johannes Kert"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7189,11 +7295,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Johannes Kert"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7269,6 +7370,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16403371"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Indrek Saar"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7296,11 +7402,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Indrek Saar"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7377,6 +7478,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16403802"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Madis Milling"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7404,11 +7510,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Madis Milling"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7484,6 +7585,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16404003"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Arvo Sarapuu"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7511,11 +7617,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Arvo Sarapuu"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7592,6 +7693,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16404020"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mihhail Korb"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7619,11 +7725,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mihhail Korb"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7704,6 +7805,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16404020"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mihhail Korb"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7731,11 +7837,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mihhail Korb"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7811,6 +7912,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16404281"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Krista Aru"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7839,11 +7945,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Krista Aru"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -7861,12 +7962,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -7918,6 +8019,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16404443"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Tarmo Kruusimäe"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7945,11 +8051,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tarmo Kruusimäe"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8025,6 +8126,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16404493"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Heidy Purga"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8052,11 +8158,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Heidy Purga"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8132,6 +8233,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16404500"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Andre Sepp"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8159,11 +8265,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Andre Sepp"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8244,6 +8345,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16405090"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Henn Põlluaas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8271,11 +8377,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Henn Põlluaas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8351,6 +8452,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16405149"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Andrei Novikov"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8378,11 +8484,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Andrei Novikov"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8463,6 +8564,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16405217"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Külliki Kübarsepp"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8491,11 +8597,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Külliki Kübarsepp"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -8513,12 +8614,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -8570,6 +8671,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16405450"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Viktoria Ladõnskaja-Kubits"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8597,11 +8703,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Viktoria Ladõnskaja-Kubits"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8663,6 +8764,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16405534"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Etti Kagarov"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8690,11 +8796,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Etti Kagarov"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8775,6 +8876,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16405538"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Märt Sults"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8802,11 +8908,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Märt Sults"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8882,6 +8983,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16405768"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Maris Lauri"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8909,11 +9015,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Maris Lauri"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8994,6 +9095,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16405768"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Maris Lauri"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9021,11 +9127,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Maris Lauri"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9101,6 +9202,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16406074"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Artur Talvik"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9128,11 +9234,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Artur Talvik"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9208,6 +9309,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16406537"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Olga Ivanova"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9235,11 +9341,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Olga Ivanova"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9315,6 +9416,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16407309"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Terje Trei"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9342,11 +9448,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Terje Trei"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9408,6 +9509,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16407380"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Aet Maatee"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9435,11 +9541,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Aet Maatee"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9516,6 +9617,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16407871"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Helmut Hallemaa"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9543,11 +9649,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Helmut Hallemaa"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9623,6 +9724,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17446896"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Yoko Alender"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9650,11 +9756,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Yoko Alender"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9730,6 +9831,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17446896"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Yoko Alender"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9757,11 +9863,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Yoko Alender"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9837,6 +9938,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17446918"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Hannes Hanso"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9864,11 +9970,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Hannes Hanso"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9949,6 +10050,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17446918"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Hannes Hanso"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9977,11 +10083,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Hannes Hanso"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -9999,12 +10100,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -10056,6 +10157,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17447338"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Einar Vallbaum"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10083,11 +10189,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Einar Vallbaum"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -10168,6 +10269,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1789192"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kristen Michal"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10195,11 +10301,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kristen Michal"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -10280,6 +10381,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1789192"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kristen Michal"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10308,11 +10414,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kristen Michal"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -10330,12 +10431,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -10387,6 +10488,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1900847"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Marko Mihkelson"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10414,11 +10520,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Marko Mihkelson"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -10494,6 +10595,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19725706"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jaak Madison"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10521,11 +10627,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jaak Madison"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -10601,6 +10702,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2000385"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Deniss Boroditš"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10629,15 +10735,15 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Deniss Boroditš"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-03-30T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -10651,12 +10757,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -10708,6 +10814,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20528288"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Tiina Kangro"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10735,11 +10846,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tiina Kangro"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -10815,6 +10921,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20528341"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Uno Kaskpeit"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10842,11 +10953,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Uno Kaskpeit"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -10922,6 +11028,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20528366"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Andres Ammas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10949,11 +11060,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Andres Ammas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11034,6 +11140,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20528493"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Erki Savisaar"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11061,11 +11172,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Erki Savisaar"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11141,6 +11247,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20528676"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Monika Haukanõmm"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11168,11 +11279,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Monika Haukanõmm"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11248,6 +11354,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2067037"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Peep Aru"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11275,11 +11386,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Peep Aru"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11356,6 +11462,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2067037"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Peep Aru"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11383,11 +11494,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Peep Aru"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11459,6 +11565,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933454"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Arno Sild"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11486,11 +11597,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Arno Sild"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11562,6 +11668,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933467"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Dmitri Dmitrijev"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11589,11 +11700,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Dmitri Dmitrijev"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11669,6 +11775,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933507"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jaanus Karilaid"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11696,11 +11807,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jaanus Karilaid"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11776,6 +11882,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933509"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Liina Kersna"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11803,11 +11914,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Liina Kersna"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -11883,6 +11989,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933524"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kristjan Kõljalg"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11911,11 +12022,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kristjan Kõljalg"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -11938,12 +12044,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -11995,6 +12101,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933540"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Andres Metsoja"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12022,11 +12133,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Andres Metsoja"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -12102,6 +12208,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933554"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Raivo Põldaru"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12129,11 +12240,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raivo Põldaru"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -12205,6 +12311,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933560"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Martin Repinski"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12232,11 +12343,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Martin Repinski"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -12317,6 +12423,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20933560"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Martin Repinski"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12345,15 +12456,15 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Martin Repinski"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-12-10T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-06-26T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -12424,6 +12535,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2097451"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Sven Mikser"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12451,11 +12567,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Sven Mikser"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -12536,6 +12647,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2097451"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Sven Mikser"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12563,11 +12679,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Sven Mikser"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -12648,6 +12759,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21009735"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Liisa Oviir"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12676,15 +12792,15 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Liisa Oviir"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-11-24T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-22T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -12755,6 +12871,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2128576"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Rait Maruste"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12782,11 +12903,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Rait Maruste"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -12867,6 +12983,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22041600"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Anneli Ott"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12895,11 +13016,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Anneli Ott"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -12917,12 +13033,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -12974,6 +13090,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q253515"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jaak Aaviksoo"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13002,11 +13123,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jaak Aaviksoo"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -13016,6 +13132,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-08-31T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jaak.aaviksoo"
       }
     }, {
       "party" : {
@@ -13082,6 +13202,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q25519722"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toomas Jürgenstein"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13109,11 +13234,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toomas Jürgenstein"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -13189,6 +13309,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2621730"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jüri Ratas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13216,11 +13341,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jüri Ratas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -13301,6 +13421,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28071323"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toomas Paur"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13328,11 +13453,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toomas Paur"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -13408,6 +13528,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28071329"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Marko Šorin"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13435,11 +13560,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Marko Šorin"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -13520,6 +13640,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28840779"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Igor Kravtšenko"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13547,11 +13672,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Igor Kravtšenko"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -13627,6 +13747,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28845703"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Alar Nääme"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13654,11 +13779,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Alar Nääme"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -13735,6 +13855,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28854341"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toomas Väinaste"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13762,11 +13887,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toomas Väinaste"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -13824,6 +13944,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28854356"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eevi Paasmäe"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13852,11 +13977,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eevi Paasmäe"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -13866,6 +13986,99 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-12-09T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100008238098684"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928652"
+      },
+      "party_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eesti Keskerakond"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estonian Centre Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q28854356-ab42d52a-4eb3-ac9a-3fbd-a0358f6e3cb5"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Parlamendiliige"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21100241"
+      },
+      "role_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Riigikogu liige"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Estonian Riigikogu"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28854356"
+      },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eevi Paasmäe"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eevi Paasmäe"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q217799"
+      },
+      "org_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Riigikogu"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riigikogu"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "101"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-06-28T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -13922,6 +14135,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28854358"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Vladimir Arhipov"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13950,11 +14168,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Vladimir Arhipov"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -13973,12 +14186,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -14030,6 +14243,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q312894"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Juhan Parts"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14057,11 +14275,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Juhan Parts"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14137,6 +14350,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q355241"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Edgar Savisaar"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14164,11 +14382,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Edgar Savisaar"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14249,6 +14462,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3735691"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eerik-Niiles Kross"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14276,11 +14494,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eerik-Niiles Kross"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14361,6 +14574,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3736458"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Ants Laaneots"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14388,11 +14606,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Ants Laaneots"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14464,6 +14677,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3740790"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Hardi Volmer"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14491,11 +14709,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Hardi Volmer"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14576,6 +14789,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3740790"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Hardi Volmer"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14603,11 +14821,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Hardi Volmer"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14683,6 +14896,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3741429"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Urmas Kruuse"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14710,11 +14928,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urmas Kruuse"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14795,6 +15008,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3741429"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Urmas Kruuse"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14822,11 +15040,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urmas Kruuse"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14902,6 +15115,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3741812"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mihhail Stalnuhhin"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14929,11 +15147,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mihhail Stalnuhhin"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15005,6 +15218,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3741900"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Vladimir Velman"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15032,11 +15250,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Vladimir Velman"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15112,6 +15325,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3785077"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Taavi Rõivas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15139,11 +15357,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Taavi Rõivas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15224,6 +15437,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3785077"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Taavi Rõivas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15251,11 +15469,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Taavi Rõivas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15331,6 +15544,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4232659"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Valeri Korb"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15358,11 +15576,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valeri Korb"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15438,6 +15651,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4250802"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mihhail Kõlvart"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15465,11 +15683,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mihhail Kõlvart"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15546,6 +15759,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q449851"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mailis Reps"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15573,11 +15791,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mailis Reps"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15654,6 +15867,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q449939"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Laine Randjärv"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15681,11 +15899,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Laine Randjärv"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15761,6 +15974,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q450523"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Eiki Nestor"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15788,11 +16006,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eiki Nestor"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15868,6 +16081,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q458003"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Keit Pentus-Rosimannus"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15895,11 +16113,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Keit Pentus-Rosimannus"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -15980,6 +16193,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q458003"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Keit Pentus-Rosimannus"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16007,11 +16225,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Keit Pentus-Rosimannus"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -16087,6 +16300,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q460589"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Vilja Toomast"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16114,11 +16332,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Vilja Toomast"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -16185,6 +16398,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q460589"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Vilja Toomast"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16212,11 +16430,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Vilja Toomast"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -16292,6 +16505,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q465437"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Urve Palo"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16319,11 +16537,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urve Palo"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -16356,7 +16569,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q465437-D7F78584-BF95-4018-9FC9-D560D704D64B"
+        "value" : "http://www.wikidata.org/entity/statement/Q465437-634993ea-4d5b-4e9f-effc-35331cf908a5"
       },
       "district" : {
         "type" : "uri",
@@ -16404,6 +16617,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q465437"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Urve Palo"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16432,15 +16650,10 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urve Palo"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2015-03-30T00:00:00Z"
+        "value" : "2015-09-15T00:00:00Z"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -16452,23 +16665,9 @@
         "value" : "Urve-Palo"
       }
     }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q913551"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Sotsiaaldemokraatlik Erakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Social Democratic Party"
-      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q465437-D7F78584-BF95-4018-9FC9-D560D704D64B"
+        "value" : "http://www.wikidata.org/entity/statement/Q465437-eaec5395-4886-6e4d-61d4-0bad6374ab54"
       },
       "district" : {
         "type" : "uri",
@@ -16516,117 +16715,10 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q465437"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Urve Palo"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q217799"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Riigikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Riigikogu"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q191"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "101"
-      },
       "name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
         "value" : "Urve Palo"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-09-15T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-04-08T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Urve-Palo"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q913551"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Sotsiaaldemokraatlik Erakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Social Democratic Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q465437-D7F78584-BF95-4018-9FC9-D560D704D64B"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3413626"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 4"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Electoral District 4 (Harju- and Raplamaa)"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Parlamendiliige"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21100241"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Riigikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Estonian Riigikogu"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q465437"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -16656,20 +16748,10 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urve Palo"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2015-09-15T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-11-23T00:00:00Z"
+        "value" : "2018-08-22T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -16740,6 +16822,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4756115"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Andres Herkel"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16767,11 +16854,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Andres Herkel"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -16847,6 +16929,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q535290"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Marianne Mikko"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16874,11 +16961,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Marianne Mikko"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -16959,6 +17041,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q535290"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Marianne Mikko"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16986,11 +17073,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Marianne Mikko"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -17065,6 +17147,11 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53636801"
+      },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Enn Meri"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -17164,6 +17251,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53638402"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Karin Tammemägi"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17196,6 +17288,95 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-10T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55984168-b29365f9-4b9f-bcba-4d2d-d4f466849e86"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3479058"
+      },
+      "district_name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Valimisringkond nr 7"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Electoral District 7 (Ida-Virumaa)"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Parlamendiliige"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21100241"
+      },
+      "role_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Riigikogu liige"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Estonian Riigikogu"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55984168"
+      },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Aivar Surva"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aivar Surva"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q217799"
+      },
+      "org_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Riigikogu"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riigikogu"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "101"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-01T00:00:00Z"
       }
     }, {
       "party" : {
@@ -17262,6 +17443,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5993313"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Igor Gräzin"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17290,15 +17476,15 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Igor Gräzin"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-03-30T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-09-05T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -17369,6 +17555,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q616356"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Arto Aas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17397,11 +17588,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Arto Aas"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -17411,6 +17597,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-04-08T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "arto.aas"
       }
     }, {
       "party" : {
@@ -17477,6 +17667,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q616356"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Arto Aas"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17505,15 +17700,14 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Arto Aas"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-11-23T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "arto.aas"
       }
     }, {
       "party" : {
@@ -17523,12 +17717,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -17580,6 +17774,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q645970"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Urmas Reinsalu"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17608,11 +17807,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urmas Reinsalu"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -17631,12 +17825,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -17688,6 +17882,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6736905"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Maire Aunaste"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17715,11 +17914,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Maire Aunaste"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -17795,6 +17989,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q704436"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jüri Jaanson"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17823,11 +18022,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jüri Jaanson"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -17845,12 +18039,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -17902,6 +18096,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q724437"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Helir-Valdor Seeder"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17930,11 +18129,6 @@
         "type" : "literal",
         "value" : "101"
       },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Helir-Valdor Seeder"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -17952,12 +18146,12 @@
       "party_name_et" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Erakond Isamaa ja Res Publica Liit"
+        "value" : "Erakond Isamaa"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pro Patria and Res Publica Union"
+        "value" : "Pro Patria"
       },
       "statement" : {
         "type" : "uri",
@@ -18009,6 +18203,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q743341"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Siim Valmar Kiisler"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -18036,11 +18235,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Siim Valmar Kiisler"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -18121,6 +18315,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7824120"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toomas Vitsut"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -18148,11 +18347,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toomas Vitsut"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -18228,6 +18422,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7909441"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Valdo Randpere"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -18255,11 +18454,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valdo Randpere"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -18335,6 +18529,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q978349"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kalle Laanet"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -18362,11 +18561,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kalle Laanet"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -18442,6 +18636,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q983831"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jürgen Ligi"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -18469,11 +18668,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jürgen Ligi"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -18554,6 +18748,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q983831"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Jürgen Ligi"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -18581,11 +18780,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Jürgen Ligi"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -18661,6 +18855,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q58100"
       },
+      "name_et" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Urmas Paet"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -18688,11 +18887,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "101"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Urmas Paet"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
