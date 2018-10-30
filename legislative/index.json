@@ -2,6 +2,8 @@
   {
     "comment": "Riigikogu",
     "house_item_id": "Q217799",
+    "seat_count": "101",
+    "area_id": "Q191",
     "position_item_id": "Q21100241",
     "terms": [
       {
@@ -14,6 +16,8 @@
   {
     "comment": "Tallinn city council",
     "house_item_id": "Q4145632",
+    "seat_count": "79",
+    "area_id": "Q4450503",
     "position_item_id": "Q53997936",
     "terms": [
       {
