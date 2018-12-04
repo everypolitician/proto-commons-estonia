@@ -8,7 +8,8 @@
     "terms": [
       {
         "comment": "13th Riigikogu",
-        "term_item_id": "Q20530392"
+        "term_item_id": "Q20530392",
+        "start_date": "2015-03-30"
       }
     ]
   },
@@ -21,7 +22,8 @@
     "terms": [
       {
         "comment": "9th congress of the Tallinn City Council",
-        "term_item_id": "Q53998275"
+        "term_item_id": "Q53998275",
+        "start_date": "2017-10-15"
       }
     ]
   }
