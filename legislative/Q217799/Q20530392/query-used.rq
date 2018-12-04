@@ -8,7 +8,7 @@ SELECT ?statement
        ?org ?org_en ?org_et ?org_jurisdiction ?org_seat_count
 WHERE {
   BIND(wd:Q21100241 as ?role) .
-  BIND(wd:Q33129158 as ?specific_role) .
+  BIND(wd:Q21100241 as ?specific_role) .
   BIND(wd:Q217799 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_en
