@@ -1,1118 +1,1155 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_et", "party", "party_name_en", "party_name_et", "district", "district_name_en", "district_name_et", "role", "role_en", "role_et", "role_superclass", "role_superclass_en", "role_superclass_et", "start", "end", "facebook", "org", "org_en", "org_et", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_et",
+      "party",
+      "party_name_en",
+      "party_name_et",
+      "district",
+      "district_name_en",
+      "district_name_et",
+      "role",
+      "role_en",
+      "role_et",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_et",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_en",
+      "org_et",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q794028"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q12369924-06F50662-01F8-4A13-ADA6-5AB4914F6967"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12369924"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Martin Helme"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Martin Helme"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q794028"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Conservative People's Party of Estonia"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Konservatiivne Rahvaerakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955934"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 5 Mustamäe district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 5 Mustamäe linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "martin.helme.9"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Konservatiivne Rahvaerakond"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q12376941-9EBD7916-3BB2-49E9-B9A0-8C0AF643D320"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12376941"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tiit Terik"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tiit Terik"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q928652"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Centre Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Keskerakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955929"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 6 Nõmme district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 6 Nõmme linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "terik.tiit"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Conservative People's Party of Estonia"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q16404493-10A1ECCE-8A05-445B-842E-9B598DEBAEC0"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16404493"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Heidy Purga"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Heidy Purga"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q738947"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Reform Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Reformierakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955932"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 1 Haabersti district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 1 Haabersti linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "heidy.purga"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q12369924-06F50662-01F8-4A13-ADA6-5AB4914F6967"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q17446896-727ED11B-E4DB-430F-B4C3-98580F42EFA6"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17446896"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yoko Alender"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Yoko Alender"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q738947"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Reform Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Reformierakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955933"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 8 Põhja-Tallinna district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 8 Põhja-Tallinna linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "540386635"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955934"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q17446896-727ED11B-E4DB-430F-B4C3-98580F42EFA6"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17446896"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yoko Alender"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Yoko Alender"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q738947"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Reform Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Reformierakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955933"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 8 Põhja-Tallinna district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 8 Põhja-Tallinna linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "yoko.alender"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 5 Mustamäe linnaosa"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53998187-842D43A3-85C3-46AC-A928-BBC869FE150E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53998187"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Igor Jermakov"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Igor Jermakov"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q928652"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Centre Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Keskerakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955930"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 4 Lasnamäe district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 4 Lasnamäe linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 5 Mustamäe district"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53998188-DBD2F7D2-CB08-4505-9ADB-96D093CD0B90"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53998188"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Helle-Moonika Helme"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Helle-Moonika Helme"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q794028"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Conservative People's Party of Estonia"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Konservatiivne Rahvaerakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955931"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 2 Kesklinna district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 2 Kesklinna linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53998189-2000841B-B749-4CDC-BE6B-DDBE58ABFEC5"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53998189"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Toomas Kruusimägi"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Toomas Kruusimägi"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q738947"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Reform Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Reformierakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955931"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 2 Kesklinna district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 2 Kesklinna linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "toomas.kruusimagi"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53998190-2307B903-76FF-4BEB-A8B0-6C940D1CEDFD"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53998190"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Natalia Malleus"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Natalia Malleus"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q928652"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Centre Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Keskerakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955931"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 2 Kesklinna district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 2 Kesklinna linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "natalia.malleus"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53998191-80FEA90C-3124-489F-BAC1-E1AFEFB11095"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53998191"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kaupo Nõlvak"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Kaupo Nõlvak"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q738947"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Reform Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Reformierakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955927"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 7 Pirita district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 7 Pirita linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "kaupo.nolvak"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12369924"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Martin Helme"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Martin Helme"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "martin.helme.9"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53998193-97D0A2A1-CE5B-4D3D-ACE0-EDD54FB3D782"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53998193"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rostislav Troškov"
+        },
+        "name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Rostislav Troškov"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q928652"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonian Centre Party"
+        },
+        "party_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti Keskerakond"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53955930"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Constituency no. 4 Lasnamäe district"
+        },
+        "district_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Valimisringkond nr 4 Lasnamäe linnaosa"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "role_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "org_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "79"
+        }
       }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q928652"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Keskerakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Centre Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q12376941-9EBD7916-3BB2-49E9-B9A0-8C0AF643D320"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955929"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 6 Nõmme linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 6 Nõmme district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12376941"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tiit Terik"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tiit Terik"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "terik.tiit"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q738947"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Reformierakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Reform Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16404493-10A1ECCE-8A05-445B-842E-9B598DEBAEC0"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955932"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 1 Haabersti linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 1 Haabersti district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16404493"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Heidy Purga"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Heidy Purga"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "heidy.purga"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q738947"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Reformierakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Reform Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17446896-727ED11B-E4DB-430F-B4C3-98580F42EFA6"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955933"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 8 Põhja-Tallinna linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 8 Põhja-Tallinna district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17446896"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Yoko Alender"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yoko Alender"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "540386635"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q738947"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Reformierakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Reform Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17446896-727ED11B-E4DB-430F-B4C3-98580F42EFA6"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955933"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 8 Põhja-Tallinna linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 8 Põhja-Tallinna district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17446896"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Yoko Alender"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yoko Alender"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yoko.alender"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q928652"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Keskerakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Centre Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53998187-842D43A3-85C3-46AC-A928-BBC869FE150E"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955930"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 4 Lasnamäe linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 4 Lasnamäe district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53998187"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Igor Jermakov"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Igor Jermakov"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q794028"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Konservatiivne Rahvaerakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Conservative People's Party of Estonia"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53998188-DBD2F7D2-CB08-4505-9ADB-96D093CD0B90"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955931"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 2 Kesklinna linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 2 Kesklinna district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53998188"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Helle-Moonika Helme"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Helle-Moonika Helme"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q738947"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Reformierakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Reform Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53998189-2000841B-B749-4CDC-BE6B-DDBE58ABFEC5"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955931"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 2 Kesklinna linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 2 Kesklinna district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53998189"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toomas Kruusimägi"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Toomas Kruusimägi"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "toomas.kruusimagi"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q928652"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Keskerakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Centre Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53998190-2307B903-76FF-4BEB-A8B0-6C940D1CEDFD"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955931"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 2 Kesklinna linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 2 Kesklinna district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53998190"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Natalia Malleus"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Natalia Malleus"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "natalia.malleus"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q738947"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Reformierakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Reform Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53998191-80FEA90C-3124-489F-BAC1-E1AFEFB11095"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955927"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 7 Pirita linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 7 Pirita district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53998191"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kaupo Nõlvak"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kaupo Nõlvak"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kaupo.nolvak"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q928652"
-      },
-      "party_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti Keskerakond"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonian Centre Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53998193-97D0A2A1-CE5B-4D3D-ACE0-EDD54FB3D782"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53955930"
-      },
-      "district_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Valimisringkond nr 4 Lasnamäe linnaosa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency no. 4 Lasnamäe district"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "role_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53998193"
-      },
-      "name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Rostislav Troškov"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rostislav Troškov"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "org_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "79"
-      }
-    } ]
+    ]
   }
 }

@@ -1,138 +1,156 @@
 {
-  "head" : {
-    "vars" : [ "position", "position_name_en", "position_name_et", "positionType", "adminAreaTypes", "adminArea", "admin_area_en", "admin_area_et", "positionSuperclass", "position_superclass_en", "position_superclass_et", "body", "body_en", "body_et" ]
+  "head": {
+    "vars": [
+      "position",
+      "position_name_en",
+      "position_name_et",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_en",
+      "admin_area_et",
+      "positionSuperclass",
+      "position_superclass_en",
+      "position_superclass_et",
+      "body",
+      "body_en",
+      "body_et"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21100241"
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21100241"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Estonian Riigikogu"
+        },
+        "position_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Riigikogu liige"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Estonia"
+        },
+        "admin_area_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Eesti"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "position_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Parlamendiliige"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q217799"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Riigikogu"
+        },
+        "body_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Riigikogu"
+        }
       },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Estonian Riigikogu"
-      },
-      "position_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Riigikogu liige"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q191"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estonia"
-      },
-      "admin_area_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Eesti"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "position_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Parlamendiliige"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q217799"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Riigikogu"
-      },
-      "body_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Riigikogu"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53997936"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Tallinn City Council"
+        },
+        "position_name_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna Linnavolikogu liige"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4450503"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn City"
+        },
+        "admin_area_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinn"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Raehärra"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145632"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tallinn city council"
+        },
+        "body_et": {
+          "xml:lang": "et",
+          "type": "literal",
+          "value": "Tallinna linnavolikogu"
+        }
       }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53997936"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Tallinn City Council"
-      },
-      "position_name_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna Linnavolikogu liige"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4450503"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn City"
-      },
-      "admin_area_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinn"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Raehärra"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145632"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tallinn city council"
-      },
-      "body_et" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Tallinna linnavolikogu"
-      }
-    } ]
+    ]
   }
 }
